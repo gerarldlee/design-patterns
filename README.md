@@ -20,5 +20,6 @@ Implemented on:
 Java, Go, Python, Javascript, Ruby, UML
 
 ###### References:
-https://en.wikipedia.org/wiki/Design_Patterns
-https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/
+[Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+
+[GoF](https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
