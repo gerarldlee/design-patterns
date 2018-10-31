@@ -21,4 +21,5 @@ Java, Go, Python, Javascript, Ruby, UML
 
 ### References:
 [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+
 [GoF](https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
