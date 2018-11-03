@@ -19,9 +19,6 @@ Pool of reference implementations for:
 * [Microservices](microservices/README.md)
 * [Test driven development](tdd/README.md)
 
-Implemented on:
-Java, Go, Python, Javascript, Ruby, UML
-
 ### References:
 * [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 * [GoF Book](https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
