@@ -16,3 +16,6 @@ Usage
 - It can be used with other creational design patterns
 - Facade are often singleton
 - States are often singleton
+
+UML
+[[https://github.com/gerarldlee/design-patterns/blob/master/creational/singleton/Singleton_class_diagram.png]]
