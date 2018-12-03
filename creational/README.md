@@ -7,3 +7,8 @@ Most common are:
 3. Abstract Factory - and how it differs with Factory.
 4. Builder - separates or parses the construction of a complex object from its representation so that it can create different representation
 5. Prototype - makes an object a prototypical instance to create new objects. essential in Javascript
+
+Sources:
+* https://refactoring.guru/design-patterns/catalog
+* https://sourcemaking.com/design_patterns
+* https://www.oodesign.com/

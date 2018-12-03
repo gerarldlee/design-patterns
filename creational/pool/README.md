@@ -1,0 +1,1 @@
+Pools an object when the cost of creating it is high.
