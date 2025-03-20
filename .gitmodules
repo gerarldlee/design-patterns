@@ -1,0 +1,6 @@
+[submodule "design-principles"]
+	path = design-principles
+	url = https://github.com/ttulka/design-principles.git
+[submodule "system-design-primer"]
+	path = system-design-primer
+	url = https://github.com/donnemartin/system-design-primer.git
